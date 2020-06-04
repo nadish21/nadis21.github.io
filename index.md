@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](https://prezi.com/css3zd3vucad/niagara-peaches/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
